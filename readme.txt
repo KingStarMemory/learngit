@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 
 fefeefer
+Creating a new branch is quick & simple.
